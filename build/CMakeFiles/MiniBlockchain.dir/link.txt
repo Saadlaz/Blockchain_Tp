@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\MiniBlockchain.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\MiniBlockchain.dir/objects.a @CMakeFiles\MiniBlockchain.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MiniBlockchain.dir/objects.a -Wl,--no-whole-archive -o MiniBlockchain.exe -Wl,--out-implib,libMiniBlockchain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MiniBlockchain.dir\linkLibs.rsp

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenSSLTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MerkleTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MerkleTree-Debug-f155d9cd0b117fa554c5.json",
+					"name" : "MerkleTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MiniBlockchain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MiniBlockchain-Debug-36ccbfa4a5b926d373ac.json",
+					"name" : "MiniBlockchain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProofOfStake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProofOfStake-Debug-e7e73314064a780b1608.json",
+					"name" : "ProofOfStake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProofOfWork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProofOfWork-Debug-794ee80dc1da256a8f51.json",
+					"name" : "ProofOfWork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleHash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleHash-Debug-6cbb2c061b1d9fdfe426.json",
+					"name" : "SimpleHash",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+		"source" : "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

@@ -1,0 +1,35 @@
+cmake_minimum_required(VERSION 3.10)
+project(OpenSSLTest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+set(OPENSSL_ROOT_DIR "C:/msys64/mingw64")
+set(OPENSSL_USE_STATIC_LIBS TRUE)
+find_package(OpenSSL REQUIRED)
+
+
+# Find OpenSSL
+find_package(OpenSSL REQUIRED)
+
+# Common libraries
+set(COMMON_LIBS OpenSSL::SSL OpenSSL::Crypto)
+
+# === Exercise 1: Merkle Tree ===
+add_executable(MerkleTree Exercice1.cpp)
+target_link_libraries(MerkleTree ${COMMON_LIBS})
+
+# === Exercise 2: Proof of Work ===
+add_executable(ProofOfWork Exercice2.cpp)
+target_link_libraries(ProofOfWork ${COMMON_LIBS})
+
+# Exercise 3: Proof of Stake (with comparison to PoW)
+add_executable(ProofOfStake Exercice3.cpp)
+target_link_libraries(ProofOfStake ${COMMON_LIBS})
+
+# Exercise 4: Mini-Blockchain
+add_executable(MiniBlockchain Exercice4.cpp)
+target_link_libraries(MiniBlockchain ${COMMON_LIBS})
+
+# (test)
+add_executable(SimpleHash main.cpp)
+target_link_libraries(SimpleHash ${COMMON_LIBS})

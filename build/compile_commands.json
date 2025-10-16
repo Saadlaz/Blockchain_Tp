@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MerkleTree.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MerkleTree.dir\\Exercice1.cpp.obj -c \"C:\\Users\\Lenovo\\Documents\\AIDS 24-26\\S3\\Blockchain & Applicative Security\\TPs\\TP 1\\Exercice1.cpp\"",
+  "file": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/Exercice1.cpp",
+  "output": "CMakeFiles/MerkleTree.dir/Exercice1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ProofOfWork.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ProofOfWork.dir\\Exercice2.cpp.obj -c \"C:\\Users\\Lenovo\\Documents\\AIDS 24-26\\S3\\Blockchain & Applicative Security\\TPs\\TP 1\\Exercice2.cpp\"",
+  "file": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/Exercice2.cpp",
+  "output": "CMakeFiles/ProofOfWork.dir/Exercice2.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ProofOfStake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ProofOfStake.dir\\Exercice3.cpp.obj -c \"C:\\Users\\Lenovo\\Documents\\AIDS 24-26\\S3\\Blockchain & Applicative Security\\TPs\\TP 1\\Exercice3.cpp\"",
+  "file": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/Exercice3.cpp",
+  "output": "CMakeFiles/ProofOfStake.dir/Exercice3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MiniBlockchain.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MiniBlockchain.dir\\Exercice4.cpp.obj -c \"C:\\Users\\Lenovo\\Documents\\AIDS 24-26\\S3\\Blockchain & Applicative Security\\TPs\\TP 1\\Exercice4.cpp\"",
+  "file": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/Exercice4.cpp",
+  "output": "CMakeFiles/MiniBlockchain.dir/Exercice4.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SimpleHash.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SimpleHash.dir\\main.cpp.obj -c \"C:\\Users\\Lenovo\\Documents\\AIDS 24-26\\S3\\Blockchain & Applicative Security\\TPs\\TP 1\\main.cpp\"",
+  "file": "C:/Users/Lenovo/Documents/AIDS 24-26/S3/Blockchain & Applicative Security/TPs/TP 1/main.cpp",
+  "output": "CMakeFiles/SimpleHash.dir/main.cpp.obj"
+}
+]
